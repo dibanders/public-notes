@@ -1,7 +1,5 @@
 This is a sample of 4DX in a simpler format
-# WIG
-Complete a 100 KM ride by end of the year
-# LEAD MEASURES
+# Complete a 100 KM ride by end of the year
 ```mermaid
 xychart-beta
     title "Kilometers Biked"
